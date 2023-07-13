@@ -19,7 +19,7 @@ The program is developed for a theatre company called 'New Theatre'. The theatre
 
 The program is divided into two parts:
 
-### Part A: Main Program (40 marks)
+### Part A: Main Program 
 
 - Task 1: Initializes the program with a floorplan of the theatre and sets all seats as free.
 - Task 2: Implements a menu for users to select different options.
@@ -30,7 +30,7 @@ The program is divided into two parts:
 - Task 7: Saves the seating information to a file.
 - Task 8: Loads the seating information from a file.
 
-### Part B: Classes and Objects (40 marks)
+### Part B: Classes and Objects 
 
 - Task 9: Implements a Person class with attributes for name, surname, and email.
 - Task 10: Implements a Ticket class with attributes for row, seat, price, and Person.
